@@ -9,15 +9,15 @@
 ## 🙋‍♂️ À propos de moi
 
 
-- 💻 Fondateur/Développeur de **[Korabot]**
+- 💻 CEO de **[Nvhcloud, Rvhhost, Nvhshield]**
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
-- 📫 Voici mon adresse mail perso **neyroz@gmail.com**
+- 📫 Voici mon adresse mail **nathan@nvhcloud.com**
 
 - ⚡ Préfere les jeux d'aventures multijoueurs.
 
-- 🚀 My project : Vivaldi a dit, Korabot, H20 PVP, Fantaisie RP, Rvhhost.fr
+- 🚀 My project : Nvhcloud, Rvhhost, Nvhshield, Vivaldi a dit, Korabot, H20 PVP, Fantaisie RP, Dynasty, Blackside.
 
 ## 🚀 Langages et outils
 
